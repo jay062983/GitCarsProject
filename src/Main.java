@@ -5,5 +5,11 @@ public class Main {
         carStructure.model="A3";
         carStructure.power="5000CC";
 
+        Engine X=new Engine();
+        X.cylinders="6";
+        X.size="123212";
+        X.weight="600lbs";
+
+
     }
 }
