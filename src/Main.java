@@ -10,6 +10,10 @@ public class Main {
         X.size="123212";
         X.weight="600lbs";
 
+lights neon=new lights();
+neon.color="orange";
+neon.size="12cm";
+neon.intensity="500lumens";
 
         color Y=new color();
         Y.colorLights="Green";
