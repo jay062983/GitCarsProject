@@ -11,5 +11,12 @@ public class Main {
         X.weight="600lbs";
 
 
+        color Y=new color();
+        Y.colorLights="Green";
+        Y.colorTyre="23443";
+        Y.colorwindows="23443";
+
+
+
     }
 }
